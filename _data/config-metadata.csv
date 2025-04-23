@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
+objectID,Repository Artwork ID
+title,Title
+creator,Creator,true
+creation_date,Artwork Creation Date,
+description,Description
+work_type,Artwork Type,true
+medium,Medium Used
+dimensions,Artwork Dimensions
+subject,Subject,true
+language, Language
+collection,Part of Collection
+source,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+type,Digital File Type,
+format,Digital File Format,
+rights,Copyright Holder,
+rightsstatement,Copyright Statement,,true
