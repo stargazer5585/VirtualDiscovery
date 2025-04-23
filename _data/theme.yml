@@ -30,7 +30,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # CREATORS PAGE
 #
-creators-fields: creator # set the field to be featured in the cloud (if left blank, none will be generated)
+creators-fields: creator; # set the field to be featured in the cloud (if left blank, none will be generated)
 creators-min: 1 # min size for creators cloud, too many terms = slow load time!
 creators-stopwords: # boxers;boxing;boxer # set of creators separated by ;, e.g. boxers;boxing
 
