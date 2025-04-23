@@ -10,7 +10,7 @@ credits: true
 
 {% include objects/TAU-ART-000117-0007.jpg objectid="1986.001" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection;About This Site" %}
 
 ## About the Collection
 
@@ -20,6 +20,9 @@ The Taubman Museum of Art has partnered with Virginia Tech (VT) to digitize thei
 
 The collection of digital surrogates found here is a small portion of the permanent collection held by the Taubman and covers a variety of artistic movements, techniques, and media, including oil paintings, block prints, sculpture, sketches, and correspondence. The accompanying information about each image is drawn from metadata provided by the Taubman Museum of Art for the items in their permanent collection.  
 
+{% include feature/nav-menu.html sections="About This Site" %}
+
+## About This Site
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
