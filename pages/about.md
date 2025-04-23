@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include objects/TAU-ART-000117-0007.jpg objectid="1986.001" %}
+{% include feature/TAU-ART-000117-0007.jpg objectid="1986.001" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About This Site" %}
 
