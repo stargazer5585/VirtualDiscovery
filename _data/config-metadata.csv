@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
-objectID,Repository Artwork ID
+objectID,Repository Artwork ID,
 title,Title
 creator,Creator,true
 creation_date,Artwork Creation Date,
 description,Description
 work_type,Artwork Type,true
-medium,Medium Used
-dimensions,Artwork Dimensions
+medium,Medium Used,
+dimensions,Artwork Dimensions,
 subject,Subject,true
 language, Language
-collection,Part of Collection
+collection,Part of Collection,
 source,Location
 latitude,Latitude
 longitude,Longitude
