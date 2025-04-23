@@ -1,6 +1,6 @@
 ---
 # Term cloud layout
-# used by default subjects and location page
+# used by default subjects and creators page
 # can be used for any metadata field cloud
 layout: page
 ---
@@ -9,7 +9,7 @@ layout: page
 
 {%- comment -%}
 
-    Figure out default "Subjects" and "Locations" page cloud values as configured in in "theme.yml", 
+    Figure out default "Subjects" and "Creators" page cloud values as configured in in "theme.yml", 
     and set default values for cloud include.
 
 {%- endcomment -%}
@@ -17,10 +17,10 @@ layout: page
     {% assign fields = site.data.theme.subjects-fields %}
     {% assign min = site.data.theme.subjects-min | default: 1 %}
     {% assign stopwords = site.data.theme.subjects-stopwords %}
-{%- elsif page.cloud-fields == "site.data.theme.locations-fields" -%}
-    {% assign fields = site.data.theme.locations-fields %}
-    {% assign min = site.data.theme.locations-min | default: 1 %}
-    {% assign stopwords = site.data.theme.locations-stopwords %}
+{%- elsif page.cloud-fields == "site.data.theme.creators-fields" -%}
+    {% assign fields = site.data.theme.creators-fields %}
+    {% assign min = site.data.theme.creatorss-min | default: 1 %}
+    {% assign stopwords = site.data.theme.creators-stopwords %}
 {%- else -%}
     {% assign fields = page.cloud-fields | default: "subjects" %}
     {% assign min = page.cloud-min | default: 1 %}
