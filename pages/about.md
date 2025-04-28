@@ -35,4 +35,4 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 The Virtual Discovery Gallery developed a metadata application profile based primarily on the CDWA Lite Schema provided by the J. Paul Getty Trust. Elements were selected based on the content of the virtual collection and the requirements of the Collection Builder GH digital library platform. Each element is mapped to Dublin Core for better metadata sharing and reuse. Details of the content guidelines, application notes, and examples of each element are available in the PDF file below. 
 
-{% include feature/pdf.html objectid="VT_map.pdf" width="75" caption="Virtual Discovery Gallery Metadata Application Profile" %}
+{% include feature/pdf.html objectid="VT_map" width="75" caption="Virtual Discovery Gallery Metadata Application Profile" %}
