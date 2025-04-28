@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="1986.001" %}
 
-{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;Project Staff;The Collection;Metadata;About This Site" %}
+{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection;Metadata;Project Staff;Copyright;About This Site" %}
 
 ## About The Virtual Digital Gallery
 
@@ -26,10 +26,6 @@ Expected functional requirements for these varied user groups include:
 - The ability to browse by date or date range
 - Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist.
 
-## Project Staff
-
-
-
 ## The Collection
 
 While the Virtual Discovery Digital Gallery may expand in the future, the current collection consists of works from the permanent collection of the Taubman Museum of Art in Roanoke, Virginia. The Taubman Museum of Art has partnered with Virginia Tech (VT) to digitize their collection, with the goal of digital preservation and online access.  A team from VT identified the Taubman’s permanent collection as the most feasible starting point for digitization, which contains over 2,400 works of American, Southeast American Contemporary, Folk, Regional and Visionary art. Items and their accompanying museum labels have been photographed on location in gallery lighting and preserved in both TIFF format for digital preservation and as JPEG files for easier access. 
@@ -44,6 +40,18 @@ Each element is mapped to Dublin Core for better metadata sharing and reuse. Det
 
 
 {% include feature/pdf.html objectid="VT_map" width="75" caption="Virtual Discovery Gallery Metadata Application Profile" %}
+
+## Project Staff
+
+This project has been the work of:
+- Eric Brown
+- David Tate
+- Krystal White
+
+## Copyright 
+
+All images are subject to copyright, as indicated in each item record. 
+All metadata and and text featured here has been developed by the project staff and is subject to a Creative Commons CC BY-NC 4.0 license - reusers may distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. 
 
 ## About This Site
 
