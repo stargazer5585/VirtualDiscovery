@@ -10,11 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="1986.001" %}
 
-{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection;Metadata;About This Site" %}
+{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;Project Staff;The Collection;Metadata;About This Site" %}
 
 ## About The Virtual Digital Gallery
 
-The Virtual Discovery Digital Gallery provides access to digitized artworks for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups ensures that the digital library supports effective discovery, interpretation, and engagement with the collection. 
+The Virtual Discovery Digital Gallery is a project developed as part of coursework for the University of Tennessee Knoxville School of Information Sciences. This virtual gallery provides access to digitized artwork for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups ensures that the digital gallery supports effective discovery, interpretation, and engagement with the collection. 
 
 Expected functional requirements for these varied user groups include:
 - Distinguish between objects by using unique identifiers
@@ -24,7 +24,11 @@ Expected functional requirements for these varied user groups include:
 - The ability to search or browse by medium of the artwork
 - The ability to search or browse by subject
 - The ability to browse by date or date range
-- Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist. 
+- Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist.
+
+## Project Staff
+
+
 
 ## The Collection
 
