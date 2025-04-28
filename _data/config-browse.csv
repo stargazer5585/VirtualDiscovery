@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,Creator
-subject,Subject,true
-work_type,Artwork Type,true,Artwork Type
+subject,Subject,true,
+work_type,Artwork Type,,,Artwork Type
