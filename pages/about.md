@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="1986.001" %}
 
-{% include feature/nav-menu.html sections="About the Virtual Digital GalleryThe Collection;Metadata;About This Site" %}
+{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection;Metadata;About This Site" %}
 
 ## About The Virtual Digital Gallery
 
