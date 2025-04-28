@@ -34,7 +34,9 @@ The collection of digital surrogates found here is a small portion of the perman
 
 ## Metadata
 
-Development of an appropriate metadata application profile was a significant challenges of this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse. The Virtual Discovery Gallery developed a metadata application profile based primarily on the CDWA Lite Schema provided by the J. Paul Getty Trust. Elements were selected based on the content of the virtual collection and the requirements of the Collection Builder GH digital library platform. 
+Development of an appropriate metadata application profile was a significant challenges of this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse. 
+
+The Virtual Discovery Gallery has developed a metadata application profile based primarily on the CDWA Lite Schema provided by the J. Paul Getty Trust. Elements were selected based on the content of the virtual collection and the requirements of the Collection Builder GH digital library platform. 
 
 Each element is mapped to Dublin Core for better metadata sharing and reuse. Details of the content guidelines, application notes, and examples of each element are available in the PDF file below. 
 
