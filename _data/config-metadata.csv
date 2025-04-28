@@ -1,19 +1,19 @@
-field,display_name,browse_link,external_link
-objectID,Repository Artwork ID,
-title,Title
-creator,Creator,true
-creation_date,Artwork Creation Date,
-description,Description
-work_type,Artwork Type,true
-medium,Medium Used,
-dimensions,Artwork Dimensions,
-subject,Subject,true
-language, Language
-collection,Part of Collection,
-source,Location
-latitude,Latitude
-longitude,Longitude
-type,Digital File Type,
-format,Digital File Format,
-rights,Copyright Holder,
-rightsstatement,Copyright Statement,,true
+field,display_name,browse_link,external_link,dc_map
+objectID,Repository Artwork ID,,,DCTERMS.identifier
+title,Title,,,DCTERMS.title
+creator,Creator,true,,DCTERMS.creator
+creation_date,Artwork Creation Date,,,DCTERMS.date.created
+description,Description,,,DCTERMS.description
+work_type,Artwork Type,true,,DCTERMS.description
+medium,Medium Used,,,DCTERMS.medium
+dimensions,Artwork Dimensions,,,DCTERMS.extent
+subject,Subject,true,,DCTERMS.subject
+language,Language,,,DCTERMS.language
+collection,Part of Collection,,,DCTERMS.isPartOf
+source,Location,,,DCTERMS.description
+latitude,Latitude,,,DCTERMS.spatial.location
+longitude,Longitude,,,DCTERMS.spatial.location
+type,Digital File Type,,,DCTERMS.type
+format,Digital File Format,,,DCTERMS.format
+rights,Copyright Holder,,,DCTERMS.rightsHolder
+rightsstatement,Copyright Statement,,true,DCTERMS.rights
