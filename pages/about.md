@@ -18,9 +18,9 @@ The Virtual Discovery Digital Gallery is a project developed as part of coursewo
 
 Expected functional requirements for these varied user groups include:
 - Distinguish between objects by using unique identifiers
-- The ability to search by title
-- The ability to search by artist
-- The ability to browse by type of artwork
+- The ability to search or browse by title
+- The ability to search or browse by artist
+- The ability to browse or browse by type of artwork
 - The ability to search or browse by medium of the artwork
 - The ability to search or browse by subject
 - The ability to browse by date or date range
