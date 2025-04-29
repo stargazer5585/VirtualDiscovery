@@ -30,7 +30,7 @@ Expected functional requirements for these varied user groups include:
 
 While the Virtual Discovery Digital Gallery may expand in the future, the current collection consists of works from the permanent collection of the Taubman Museum of Art in Roanoke, Virginia. The Taubman Museum of Art partnered with Virginia Tech (VT) to digitize their collection, with the joint goals of digital preservation and online access.  A team from VT identified the Taubman’s permanent collection as the most feasible starting point for digitization, which contains over 2,400 works of American, Southeast American Contemporary, Folk, Regional and Visionary art. Items and their accompanying museum labels have been photographed on location in gallery lighting and preserved in both TIFF format for digital preservation and as JPEG files for easier access. 
 
-The collection of digital surrogates found here is a small portion of the permanent collection held by the Taubman and covers a variety of artistic movements, techniques, and media, including oil paintings, block prints, sculpture, sketches, and correspondence. The accompanying information about each image is drawn from metadata provided by the Taubman Museum of Art for the items in their permanent collection.
+The collection of digital surrogates found here is a small portion of the permanent collection held by the Taubman and covers a variety of artistic movements, techniques, and media, including oil paintings, block prints, sculpture, sketches, and correspondence. The accompanying information about each image is drawn from the museum labels for each item, and the metadata provided by the Taubman Museum of Art for the items in their permanent collection.
 
 ## Metadata
 
