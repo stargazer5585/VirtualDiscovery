@@ -14,7 +14,7 @@ credits: true
 
 ## About The Virtual Digital Gallery
 
-The Virtual Discovery Digital Gallery is a project developed as part of coursework for the University of Tennessee Knoxville School of Information Sciences. This virtual gallery provides access to digitized artwork for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups ensures that the digital gallery supports effective discovery, interpretation, and engagement with the collection. 
+The Virtual Discovery Digital Gallery is a project developed as part of coursework for the University of Tennessee Knoxville School of Information Sciences. This virtual gallery provides access to digitized artwork for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups is important to ensuring that the digital gallery supports effective discovery, interpretation, and engagement with the collection. 
 
 Expected functional requirements for these varied user groups include:
 - Distinguish between objects by using unique identifiers
