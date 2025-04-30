@@ -21,7 +21,7 @@ Expected functional requirements for these varied user groups include:
 - The ability to search or browse by title
 - The ability to search or browse by creator
 - The ability to search or browse by type of artwork
-- The ability to search or browse by medium of the artwork
+- The ability to search or browse by medium used in the artwork
 - The ability to search or browse by subject
 - The ability to browse by date or date range
 - Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist.
