@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link,dc_map
 objectID,Repository Artwork ID,,,DCTERMS.identifier
+identifier,Repository Artwork ID,,,DCTERMS.identifier
 title,Title,,,DCTERMS.title
 creator,Creator,true,,DCTERMS.creator
 creation_date,Artwork Creation Date,,,DCTERMS.date.created
