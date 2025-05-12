@@ -10,7 +10,7 @@ Henry George Keller was an Cleveland painter, lithographer, and educator best kn
 
 {% include feature/nav-menu.html sections="Early Life and Education;Teaching;Featured Works;The Cleveland School;References" %}
 
-{% include feature/image.html objectid="https://burchfieldpenney.org/cache/images/e56a48818d9ae78a2d9a00d0d3964711.jpg" width="75" alt="Henry George Keller, courtesy of the Burchfield Penney Art Center" %}
+{% include feature/image.html objectid="https://burchfieldpenney.org/cache/images/e56a48818d9ae78a2d9a00d0d3964711.jpg" width="50" alt="Henry George Keller, courtesy of the Burchfield Penney Art Center" %}
 
 ### Early Life and Education
 Henry George Keller was born at sea off Nova Scotia to German-born parents on their way to Cleveland, where he spent his life. He spent three years studying at the Cleveland School of Art, followed by two years’ study at the Academy of Fine Arts in Karlsruhem, Germany under Hermann Baisch. In Germany, Keller studied under the animal painter, Zugel, and won a Silver Medal from the Royal Academy of Bavaria. Keller also attended the Cincinnati Fine Arts Academy and the Art Students League in New York City, working as a lithographer to finance his education.  
@@ -37,5 +37,5 @@ During his time teaching at the Cleveland School of Art and the Berlin Heights w
 - Burchfield Penney Art Center. (n.d.). Henry George Keller. Burchfield Penney Art Center. [https://burchfieldpenney.org/art-and-artists/people/profile:henry-george-keller/#henry-george-keller](https://burchfieldpenney.org/art-and-artists/people/profile:henry-george-keller/#henry-george-keller)
 - Case Western Reserve University. (2018, May 11). Keller, Henry George [Encyclopedia]. Encyclopedia of Cleveland History. [https://case.edu/ech/articles/k/keller-henry-george](https://case.edu/ech/articles/k/keller-henry-george)
 - Cleveland Institute of Art. (2025). In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Cleveland_Institute_of_Art&oldid=1277015375#Notable_professors_and_students](https://en.wikipedia.org/w/index.php?title=Cleveland_Institute_of_Art&oldid=1277015375#Notable_professors_and_students)
-- Dixie Art Colony Foundation. (n.d.). Henry George Keller | 1869-1949 Archives. Dixie Art Colony Foundation. [http://dixieartcolony.org/artwork-artists/henry-george-keller-1869-1949/](http://dixieartcolony.org/artwork-artists/henry-george-keller-1869-1949/)
+- Dixie Art Colony Foundation. (n.d.). Henry George Keller. 1869-1949 Archives. Dixie Art Colony Foundation. [http://dixieartcolony.org/artwork-artists/henry-george-keller-1869-1949/] (http://dixieartcolony.org/artwork-artists/henry-george-keller-1869-1949/)
 - Henry Keller. (2024). In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Henry_Keller&oldid=1197271880](https://en.wikipedia.org/w/index.php?title=Henry_Keller&oldid=1197271880)
