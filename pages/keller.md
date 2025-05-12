@@ -21,6 +21,8 @@ After returning to the United States, Keller worked for the Art Institute of Pit
 ## Featured Works
 While the Virtual Discovery Digital Gallery does not currently contain any of Keller's watercolors, one line etching print is included, as well as a number of his gesture drawings, a quick form of sketching used to rapidly capture the movement and pose of the subject.
 
+These quick sketches have an endearing, almost cartoonish quality. Each figure, rendered in just a few strokes and some shading, feels wholly unique, inviting the viewer to imagine their personality, quirks, and backstory.
+
 {% include feature/image.html objectid="1985.171.011_01;1985.146;1985.171.016" %}
 
 {% include feature/image.html objectid="1985.171.012;1985.171.019;1985.171.004" %}
