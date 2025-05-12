@@ -10,11 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="1986.001" %}
 
-{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection;Metadata;Project Staff;Copyright;About This Site" %}
+{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection & Digitization;Metadata Development;Project Staff & Acknowledgments;Copyright Restrictions;About This Site" %}
 
 ## About The Virtual Digital Gallery
 
-The Virtual Discovery Digital Gallery is a project developed as part of coursework for the University of Tennessee Knoxville School of Information Sciences. This virtual gallery provides access to digitized artwork for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups is important to ensuring that the digital gallery supports effective discovery, interpretation, and engagement with the collection. 
+The Virtual Discovery Digital Gallery is a prototype digital library developed to evaluate the use of CollectionBuilder-GH as a potential platform for showcasing digitized collections at Appalachian Regional Technical School (ARTS). This virtual gallery provides access to digitized artwork for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups is important to ensuring that the digital gallery supports effective discovery, interpretation, and engagement with the collection.
+
 
 Expected functional requirements for these varied user groups include:
 - Distinguish between objects by using unique identifiers
@@ -26,34 +27,47 @@ Expected functional requirements for these varied user groups include:
 - The ability to browse by date or date range
 - Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist.
 
-## The Collection
+## The Collection & Digitization
 
-While the Virtual Discovery Digital Gallery may expand in the future, the current collection consists of works from the permanent collection of the Taubman Museum of Art in Roanoke, Virginia. The Taubman Museum of Art partnered with Virginia Tech (VT) to digitize their collection, with the joint goals of digital preservation and online access.  A team from VT identified the Taubman’s permanent collection as the most feasible starting point for digitization, which contains over 2,400 works of American, Southeast American Contemporary, Folk, Regional and Visionary art. Items and their accompanying museum labels have been photographed on location in gallery lighting and preserved in both TIFF format for digital preservation and as JPEG files for easier access. 
+While the Virtual Discovery Digital Gallery may expand in the future, project staff have partnered with the Taubman Museum of Art in Roanoake, Virginia and Virginia Tech (VT) to provide an initial collection of digitized artwork sufficient to test the capabilities of CollectionBuilder-GH. 
 
-The collection of digital surrogates found here is a small portion of the permanent collection held by the Taubman and covers a variety of artistic movements, techniques, and media, including oil paintings, block prints, sculpture, sketches, and correspondence. The accompanying information about each image is drawn from the museum labels for each item, and the metadata provided by the Taubman Museum of Art for the items in their permanent collection.
+The Taubman Museum of Art has partnered with Virginia Tech to digitize their collection, with the joint goals of digital preservation and online access. A team from VT identified as the most feasible starting point the Taubman’s permanent collection, containing over 2,400 works of American, Southeast American Contemporary, Folk, Regional and Visionary art. Items and their accompanying museum labels have been photographed on location in gallery lighting and preserved in both TIFF format for digital preservation and as JPEG files for ease of use and access.
 
-## Metadata
+The collection of digital images found here is a small portion of the permanent collection held by the Taubman and covers a variety of artistic movements, techniques, and media, including oil paintings, block prints, sculpture, sketches, and correspondence. The accompanying description of each image is drawn from the museum labels and the metadata provided by the Taubman Museum of Art for the items in their permanent collection, with supplementation from the Virtual Discovery Digital Gallery staff.
 
-Development of an appropriate metadata application profile was a significant challenge for this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse. 
+## Metadata Development
+
+Development of an appropriate metadata application profile was a significant challenge for this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse.
 
 The Virtual Discovery Gallery has developed a metadata application profile based primarily on the CDWA Lite Schema provided by the J. Paul Getty Trust. Elements were selected based on the content of the virtual collection and the requirements of the Collection Builder GH digital library platform. Some elements feature local qualifications to better fit the needs of the collection.
 
-Each element is mapped to Dublin Core for better metadata sharing and reuse. Details of the content guidelines, application notes, and examples of each element are available in the PDF file below. 
+Each element is mapped to Dublin Core for better metadata sharing and reuse. Details of the content guidelines, application notes, and examples of each element are available in the PDF file below.
 
 
 {% include feature/pdf.html objectid="VT_map" width="75" caption="Virtual Discovery Gallery Metadata Application Profile" %}
 
-## Project Staff
+
+Additional resources may be found at the following links:
+
+CDWA Lite, [https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf](https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf)
+Dublin Core Metadata Terms, [https://www.dublincore.org/specifications/dublin-core/dcmi-terms/](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
+Getty Vocabularies, [https://www.getty.edu/research/tools/vocabularies/](https://www.getty.edu/research/tools/vocabularies/)
+Library of Congress Authorities, [https://authorities.loc.gov/](https://authorities.loc.gov/)
+
+
+## Project Staff & Acknowledgments
 
 This project has been the work of:
 - Eric Brown
 - David Tate
 - Krystal White
 
-## Copyright 
+Much thanks to the Taubman Museum of Art for providing access to their permanent collection, and to the staff at Virginia Tech for photographing the artwork and making the image files and metadata available for this project.
 
-All images are subject to copyright, as indicated in each item record. 
-All metadata and and text featured here has been developed by the project staff and is subject to a Creative Commons CC BY-NC 4.0 license - reusers may distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. 
+
+## Copyright Restrictions
+
+All images are subject to copyright, as indicated in the individual item records. All text featured here and the metadata application profile provided have been developed by the project staff and are subject to a Creative Commons CC BY-NC 4.0 license. Reusers may distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
 
 ## About This Site
 
