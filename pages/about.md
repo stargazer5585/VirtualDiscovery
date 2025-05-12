@@ -49,10 +49,10 @@ Each element is mapped to Dublin Core for better metadata sharing and reuse. Det
 
 Additional resources may be found at the following links:
 
-CDWA Lite, [https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf](https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf)
-Dublin Core Metadata Terms, [https://www.dublincore.org/specifications/dublin-core/dcmi-terms/](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
-Getty Vocabularies, [https://www.getty.edu/research/tools/vocabularies/](https://www.getty.edu/research/tools/vocabularies/)
-Library of Congress Authorities, [https://authorities.loc.gov/](https://authorities.loc.gov/)
+- CDWA Lite, [https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf](https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf)
+- Dublin Core Metadata Terms, [https://www.dublincore.org/specifications/dublin-core/dcmi-terms/](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
+- Getty Vocabularies, [https://www.getty.edu/research/tools/vocabularies/](https://www.getty.edu/research/tools/vocabularies/)
+- Library of Congress Authorities, [https://authorities.loc.gov/](https://authorities.loc.gov/)
 
 
 ## Project Staff & Acknowledgments
