@@ -17,16 +17,6 @@ credits: true
 The Virtual Discovery Digital Gallery is a prototype digital library developed to evaluate the use of CollectionBuilder-GH as a potential platform for showcasing digitized collections at Appalachian Regional Technical School (ARTS). This virtual gallery provides access to digitized artwork for use by art historians, researchers, students, and the general public. Each of these users has unique search behaviors and accessibility needs, and understanding these diverse user groups is important to ensuring that the digital gallery supports effective discovery, interpretation, and engagement with the collection.
 
 
-Expected functional requirements for these varied user groups include:
-- Distinguish between objects by using unique identifiers
-- The ability to search or browse by title
-- The ability to search or browse by creator
-- The ability to search or browse by type of artwork
-- The ability to search or browse by medium used in the artwork
-- The ability to search or browse by subject
-- The ability to browse by date or date range
-- Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist.
-
 ## The Collection & Digitization
 
 While the Virtual Discovery Digital Gallery may expand in the future, project staff have partnered with the Taubman Museum of Art in Roanoake, Virginia and Virginia Tech (VT) to provide an initial collection of digitized artwork sufficient to test the capabilities of CollectionBuilder-GH. 
@@ -39,6 +29,20 @@ The collection of digital images found here is a small portion of the permanent 
 
 Development of an appropriate metadata application profile was a significant challenge for this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse.
 
+### Functional Requirements
+
+Expected functional requirements for these varied user groups include:
+- Distinguish between objects by using unique identifiers
+- The ability to search or browse by title
+- The ability to search or browse by creator
+- The ability to search or browse by type of artwork
+- The ability to search or browse by medium used in the artwork
+- The ability to search or browse by subject
+- The ability to browse by date or date range
+- Provide context for the original artwork through description of medium, techniquest, artistic movements, or background information about the work or artist.
+
+### Metadata Application Profile
+
 The Virtual Discovery Gallery has developed a metadata application profile based primarily on the CDWA Lite Schema provided by the J. Paul Getty Trust. Elements were selected based on the content of the virtual collection and the requirements of the Collection Builder GH digital library platform. Some elements feature local qualifications to better fit the needs of the collection.
 
 Each element is mapped to Dublin Core for better metadata sharing and reuse. Details of the content guidelines, application notes, and examples of each element are available in the PDF file below.
@@ -46,8 +50,9 @@ Each element is mapped to Dublin Core for better metadata sharing and reuse. Det
 
 {% include feature/pdf.html objectid="VT_map" width="75" caption="Virtual Discovery Gallery Metadata Application Profile" %}
 
+### Additional Resources
 
-Additional resources may be found at the following links:
+Additional resources for metadata standards and vocabularies may be found at the following links:
 
 - CDWA Lite, [https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf](https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf)
 - Dublin Core Metadata Terms, [https://www.dublincore.org/specifications/dublin-core/dcmi-terms/](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
