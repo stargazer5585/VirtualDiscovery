@@ -14,6 +14,12 @@ Henry George Keller was born at sea off Nova Scotia to German-born parents on th
 ## Teaching 
 After returning to the United States, Keller worked for the Art Institute of Pittsburgh before returning to Cleveland to teach at the Cleveland School of Art (later the Cleveland Institute of Art) until 1945, influencing a generation of watercolor painters. In the summer he offered art colony-style workshops in Berlin Heights, Ohio, teaching young painters such as Charles Burchfield, James Kulhanek, Paul Travis, August Biehle, and Frank Wilcox. 
 
+## Featured Works
+While the Virtual Discovery Digital Gallery does not currently contain any of Keller's watercolors, one line etching print is included, as well as a number of his gesture drawings, a quick form of sketching used to rapidly capture the movement and pose of the subject.
+
+{% include feature/image.html objectid="1985.171.011_01;1985.146;1985.171.016" %}
+
+{% include feature/image.html objectid="1985.171.012;1985.171.019;1985.171.004" %}
 
 ## References
 
