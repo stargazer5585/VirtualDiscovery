@@ -8,7 +8,7 @@ permalink: /keller.html
 April 3, 1869-August 3, 1949
 Henry George Keller was an Cleveland painter, lithographer, and educator best known for his watercolor paintings.
 
-{% include feature/nav-menu.html sections="Early Life and Education;Teaching;Metadata;Featured Works;Cleveland School;References" %}
+{% include feature/nav-menu.html sections="Early Life and Education;Teaching;Featured Works;Cleveland School;References" %}
 
 {% include feature/image.html objectid="https://burchfieldpenney.org/cache/images/e56a48818d9ae78a2d9a00d0d3964711.jpg" width="75" alt="Henry George Keller, courtesy of the Burchfield Penney Art Center" %}
 
