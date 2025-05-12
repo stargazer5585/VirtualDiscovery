@@ -31,7 +31,7 @@ Development of an appropriate metadata application profile was a significant cha
 
 ### Functional Requirements
 
-Expected functional requirements for these varied user groups include:
+Expected functional requirements for the expected user groups include:
 - Distinguish between objects by using unique identifiers
 - The ability to search or browse by title
 - The ability to search or browse by creator
