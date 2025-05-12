@@ -1,4 +1,4 @@
----
+t---
 title: About
 layout: about
 permalink: /about.html
@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="1986.001" %}
 
-{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection & Digitization;Metadata Development;Project Staff & Acknowledgments;Copyright Restrictions;About This Site" %}
+{% include feature/nav-menu.html sections="About the Virtual Digital Gallery;The Collection & Digitization;Metadata Development;Project Staff & Acknowledgments;Copyright Restrictions;About CollectionBuilder-GH" %}
 
 ## About The Virtual Digital Gallery
 
@@ -74,7 +74,7 @@ Much thanks to the Taubman Museum of Art for providing access to their permanent
 
 All images are subject to copyright, as indicated in the individual item records. All text featured here and the metadata application profile provided have been developed by the project staff and are subject to a Creative Commons CC BY-NC 4.0 license. Reusers may distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
 
-## About This Site
+## About CollectionBuilder-GH
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
