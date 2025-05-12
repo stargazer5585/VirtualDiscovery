@@ -17,8 +17,8 @@ After returning to the United States, Keller worked for the Art Institute of Pit
 
 ## References
 
--Burchfield Penney Art Center. (n.d.). Henry George Keller. Burchfield Penney Art Center. Retrieved May 12, 2025, from https://burchfieldpenney.org/art-and-artists/people/profile:henry-george-keller/#henry-george-keller
--Case Western Reserve University. (2018, May 11). Keller, Henry George [Encyclopedia]. Encyclopedia of Cleveland History. https://case.edu/ech/articles/k/keller-henry-george
--Cleveland Institute of Art. (2025). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Cleveland_Institute_of_Art&oldid=1277015375#Notable_professors_and_students
--Dixie Art Colony Foundation. (n.d.). Henry George Keller | 1869-1949 Archives. Dixie Art Colony Foundation. Retrieved May 12, 2025, from http://dixieartcolony.org/artwork-artists/henry-george-keller-1869-1949/
--Henry Keller. (2024). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Henry_Keller&oldid=1197271880
+- Burchfield Penney Art Center. (n.d.). Henry George Keller. Burchfield Penney Art Center. Retrieved May 12, 2025, from https://burchfieldpenney.org/art-and-artists/people/profile:henry-george-keller/#henry-george-keller
+- Case Western Reserve University. (2018, May 11). Keller, Henry George [Encyclopedia]. Encyclopedia of Cleveland History. https://case.edu/ech/articles/k/keller-henry-george
+- Cleveland Institute of Art. (2025). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Cleveland_Institute_of_Art&oldid=1277015375#Notable_professors_and_students
+- Dixie Art Colony Foundation. (n.d.). Henry George Keller | 1869-1949 Archives. Dixie Art Colony Foundation. Retrieved May 12, 2025, from http://dixieartcolony.org/artwork-artists/henry-george-keller-1869-1949/
+- Henry Keller. (2024). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Henry_Keller&oldid=1197271880
