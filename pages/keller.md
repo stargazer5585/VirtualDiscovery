@@ -23,6 +23,8 @@ While the Virtual Discovery Digital Gallery does not currently contain any of Ke
 
 These quick sketches have an endearing, almost cartoonish quality. Each figure, rendered in just a few strokes and some shading, feels wholly unique, inviting the viewer to imagine their personality, quirks, and backstory.
 
+
+
 {% include feature/image.html objectid="1985.146;1985.171.011_01;1985.171.016" %}
 
 {% include feature/image.html objectid="1985.171.012;1985.171.019;1985.171.004" %}
@@ -31,6 +33,8 @@ These quick sketches have an endearing, almost cartoonish quality. Each figure, 
 
 ## The Cleveland School
 During his time teaching at the Cleveland School of Art and the Berlin Heights workshops, Keller had a significant impact on the students and local artists. Some of these artists associated with the Cleveland School and featured in the Virtual Discovery Digital Library include Paul Travis, Frank Wilcox, and William Sommer.
+
+
 
 {% include feature/image.html objectid="1986.027;1985.164_01;1985.097" caption="Paul Travis, African Waterhole;Frank Wilcox, Untitled Christmas Card;William Sommer, Horse" %}
 
