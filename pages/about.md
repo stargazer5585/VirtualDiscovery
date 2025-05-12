@@ -25,6 +25,8 @@ The Taubman Museum of Art has partnered with Virginia Tech to digitize their col
 
 The collection of digital images found here is a small portion of the permanent collection held by the Taubman and covers a variety of artistic movements, techniques, and media, including oil paintings, block prints, sculpture, sketches, and correspondence. The accompanying description of each image is drawn from the museum labels and the metadata provided by the Taubman Museum of Art for the items in their permanent collection, with supplementation from the Virtual Discovery Digital Gallery staff.
 
+More about the Taubman Museum of Art: [https://www.taubmanmuseum.org/](https://www.taubmanmuseum.org/)
+
 ## Metadata Development
 
 Development of an appropriate metadata application profile was a significant challenge for this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse. Pairing image files to existing metadata also proved difficult.
