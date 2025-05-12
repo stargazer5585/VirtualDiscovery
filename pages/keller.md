@@ -8,6 +8,8 @@ permalink: /keller.html
 April 3, 1869-August 3, 1949
 Henry George Keller was an Cleveland painter, lithographer, and educator best known for his watercolor paintings.
 
+{% include feature/nav-menu.html sections="Early Life and Education;Teaching;Metadata;Featured Works;Cleveland School;References" %}
+
 ### Early Life and Education
 Henry George Keller was born at sea off Nova Scotia to German-born parents on their way to Cleveland, where he spent his life. He spent three years studying at the Cleveland School of Art, followed by two years’ study at the Academy of Fine Arts in Karlsruhem, Germany under Hermann Baisch. In Germany, Keller studied under the animal painter, Zugel, and won a Silver Medal from the Royal Academy of Bavaria. Keller also attended the Cincinnati Fine Arts Academy and the Art Students League in New York City, working as a lithographer to finance his education.  
 
@@ -21,6 +23,7 @@ While the Virtual Discovery Digital Gallery does not currently contain any of Ke
 
 {% include feature/image.html objectid="1985.171.012;1985.171.019;1985.171.004" %}
 
+{% include feature/image.html objectid="1985.171.018;1985.171.017;1985.171.001" %}
 
 ### The Cleveland School
 During his time teaching at the Cleveland School of Art and the Berlin Heights workshops, Keller had a significant impact on the students and local artists. Some of these artists associated with the Cleveland School and featured in the Virtual Discovery Digital Library include Paul Travis, Frank Wilcox, and William Sommer.
