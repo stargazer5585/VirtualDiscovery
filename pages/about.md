@@ -27,7 +27,7 @@ The collection of digital images found here is a small portion of the permanent 
 
 ## Metadata Development
 
-Development of an appropriate metadata application profile was a significant challenge for this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse.
+Development of an appropriate metadata application profile was a significant challenge for this project due to the need to balance accurate resource description, platform requirements, and potential data harvesting and reuse. Pairing image files to existing metadata also proved difficult.
 
 ### Functional Requirements
 
