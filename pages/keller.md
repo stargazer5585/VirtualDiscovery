@@ -8,7 +8,7 @@ permalink: /keller.html
 April 3, 1869-August 3, 1949
 Henry George Keller was an Cleveland painter, lithographer, and educator best known for his watercolor paintings.
 
-{% include feature/nav-menu.html sections="Early Life and Education;Teaching;Featured Works;Cleveland School;References" %}
+{% include feature/nav-menu.html sections="Early Life and Education;Teaching;Featured Works;The Cleveland School;References" %}
 
 {% include feature/image.html objectid="https://burchfieldpenney.org/cache/images/e56a48818d9ae78a2d9a00d0d3964711.jpg" width="75" alt="Henry George Keller, courtesy of the Burchfield Penney Art Center" %}
 
@@ -30,7 +30,7 @@ While the Virtual Discovery Digital Gallery does not currently contain any of Ke
 ### The Cleveland School
 During his time teaching at the Cleveland School of Art and the Berlin Heights workshops, Keller had a significant impact on the students and local artists. Some of these artists associated with the Cleveland School and featured in the Virtual Discovery Digital Library include Paul Travis, Frank Wilcox, and William Sommer.
 
-{% include feature/image.html objectid="1986.027;1985.164_01;1985.097" %}
+{% include feature/image.html objectid="1986.027;1985.164_01;1985.097" caption="Paul Travis, African Waterhole;Frank Wilcox, Untitled Christmas Card;William Sommer, Horse" %}
 
 ### References
 
