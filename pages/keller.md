@@ -10,6 +10,8 @@ Henry George Keller was an Cleveland painter, lithographer, and educator best kn
 
 {% include feature/nav-menu.html sections="Early Life and Education;Teaching;Metadata;Featured Works;Cleveland School;References" %}
 
+{% include feature/image.html objectid="https://burchfieldpenney.org/cache/images/e56a48818d9ae78a2d9a00d0d3964711.jpg" width="75" alt="Henry George Keller, courtesy of the Burchfield Penney Art Center" %}
+
 ### Early Life and Education
 Henry George Keller was born at sea off Nova Scotia to German-born parents on their way to Cleveland, where he spent his life. He spent three years studying at the Cleveland School of Art, followed by two years’ study at the Academy of Fine Arts in Karlsruhem, Germany under Hermann Baisch. In Germany, Keller studied under the animal painter, Zugel, and won a Silver Medal from the Royal Academy of Bavaria. Keller also attended the Cincinnati Fine Arts Academy and the Art Students League in New York City, working as a lithographer to finance his education.  
 
