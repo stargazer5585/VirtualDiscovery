@@ -1,7 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Exhibits,/exhibits.html
+Exhibits,,
+Henry George Keller, /keller.html, Exhibits
 Subjects,/subjects.html
 Creators,/creators.html
 Map,/map.html
